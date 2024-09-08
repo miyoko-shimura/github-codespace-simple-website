@@ -1,0 +1,25 @@
+/* Apply the Space Grotesk font to the body */
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 20px; /* Rounded button */
+    font-family: 'Space Grotesk', sans-serif; /* Apply Space Grotesk to the button as well */
+}
+
+button:hover {
+    background-color: #45a049;
+}
