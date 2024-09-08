@@ -27,5 +27,5 @@ This project demonstrates a basic HTML website that uses the **Space Grotesk** f
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/simple-website.git
+   git clone https://github.com/youru/simple-website.git
    cd simple-website
