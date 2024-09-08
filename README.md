@@ -1,6 +1,8 @@
 # Simple Website with Google Fonts
 
-This project demonstrates a basic HTML website that uses the **Space Grotesk** font from Google Fonts, along with some simple CSS for styling and a JavaScript function for interactivity. The project is designed to be used in GitHub Codespaces or any local development environment.
+This project demonstrates a basic HTML website that uses the **Space Grotesk** font from Google Fonts, along with some simple CSS for styling and a JavaScript function for interactivity.
+
+The project is designed to be used in GitHub Codespaces or any local development environment.
 ![image](https://github.com/user-attachments/assets/3c0001c0-81c7-4571-97d6-ca4a565fbcde)
 
 ## Features
