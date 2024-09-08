@@ -24,7 +24,7 @@ This project demonstrates a basic HTML website that uses the **Space Grotesk** f
 
 ### Running the Website Locally
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/miyoko-shimura/github-codespace-simple-website.git
