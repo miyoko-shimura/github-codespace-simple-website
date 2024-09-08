@@ -1,24 +1,30 @@
-# Streamlit App with Google Fonts
+# Simple Website with Google Fonts (Space Grotesk)
 
-This is a simple **Streamlit** application that demonstrates how to use **Google Fonts** (e.g., Space Grotesk) within a Streamlit app.
-
- The app showcases basic text components styled with custom fonts by injecting CSS directly into the app using `st.markdown`.
+This project demonstrates a basic HTML website that uses the **Space Grotesk** font from Google Fonts, along with some simple CSS for styling and a JavaScript function for interactivity. The project is designed to be used in GitHub Codespaces or any local development environment.
 
 ## Features
 
-- Integrates Google Fonts with Streamlit.
-- Uses **Space Grotesk** as the font for all elements.
-- Simple interactive button that displays a message.
+- Integrates Google Fonts (**Space Grotesk**).
+- Simple HTML structure with CSS and JavaScript.
+- Interactive button that triggers a JavaScript alert.
 
-## Requirements
+## Project Structure
 
-- Python 3.7 or higher.
-- Streamlit library.
+- `index.html` - The main HTML structure of the website.
+- `styles.css` - The CSS styles used to format the page, including the Google Font and custom button styles.
+- `script.js` - JavaScript file for button interaction (alert message).
 
-## Installation
+## How to Use
 
-1. **Clone the repository**:
+### Prerequisites
+
+- A web browser to view the HTML page.
+- GitHub Codespaces or any local environment that supports HTML, CSS, and JavaScript.
+
+### Running the Website Locally
+
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/streamlit-google-font-app.git
-   cd streamlit-google-font-app
+   git clone https://github.com/yourusername/simple-website.git
+   cd simple-website
