@@ -30,4 +30,4 @@ The project is designed to be used in GitHub Codespaces or any local development
 
    ```bash
    git clone https://github.com/miyoko-shimura/github-codespace-simple-website.git
-   cd simple-website
+   cd github-codespace-simple-website
